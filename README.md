@@ -70,10 +70,6 @@
    - 执行命令：`Set-ExecutionPolicy RemoteSigned`
    - 选择"是"或"全是"
 
-## 许可证
-
-本项目遵循MIT许可证，详见`LICENSE`文件。
-
 ## 了解更多
 
 [kgg-dec-mirror](https://github.com/DHJComical/kgg-dec-mirror?tab=readme-ov-file#kgg-dec)
