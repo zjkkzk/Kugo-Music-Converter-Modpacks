@@ -4,6 +4,8 @@
 
 整合了unlock-kugou和kgg-dec工具的功能，使得转换过程更加简便快捷。
 
+## 下载https://github.com/hu568/Kugo-Music-Converter-Modpacks/releases
+
 ## 支持的文件格式
 
 - `.kgg`：使用`kgg-dec.exe`转换
