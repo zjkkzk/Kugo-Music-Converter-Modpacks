@@ -63,7 +63,7 @@
 
 - 或者
 
-2. 参考 kgg-dec-mirror ，拷贝 infra.dll 文件到这个kgg目录后直接双击运行kgg-dec.exe，就能正常转换格式了
+2. 参考 [kgg-dec-mirror](https://github.com/DHJComical/kgg-dec-mirror?tab=readme-ov-file#kgg-dec) ，拷贝 infra.dll 文件到这个kgg目录后直接双击运行kgg-dec.exe，就能正常转换格式了
 
 ## 注意事项
 
